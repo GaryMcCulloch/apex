@@ -25,7 +25,7 @@ const useStyles = makeStyles((theme) => ({
     fontFamily: 'Roboto'
   },
   title: {
-    color: '#0030cecc'
+    color: '#fff'
   }
 
 }));
